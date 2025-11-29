@@ -3,7 +3,7 @@
 
 https://github.com/danschnurp/czech-railway-lights-analysis
 
-
+(in private mode)
 https://huggingface.co/spaces/danschnurp/czech-railway-trafic-lights
 
 
